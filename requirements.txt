@@ -1,0 +1,24 @@
+# Core deep learning
+torch>=1.10
+torchvision>=0.11
+
+# Data handling
+numpy>=1.21
+opencv-python>=4.5
+
+# Pose estimation
+mediapipe>=0.9
+
+# Training utilities
+tqdm>=4.64
+matplotlib>=3.5
+
+# Metrics & evaluation
+scikit-learn>=1.0
+
+# Dataset utilities
+Pillow>=8.4
+pathlib
+
+# Optional (used in notebooks / augmentation)
+jupyter
